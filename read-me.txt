@@ -1,0 +1,4 @@
+	Projeto feito por Gustavo Oliveira Viana 
+O site não é um codigo inteiro meu, peguei um de base do youtube todas adaptações
+e funçoes para soma foram feitas por mim.
+	Fui fazendo pesquisas de acordo com a minha necessidade para que pudesse mandar um site sem bugs 
